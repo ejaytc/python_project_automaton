@@ -1,0 +1,6 @@
+{
+  "api_url": "https://api.github.com/user/repos",
+  "headers": {"Authorization": "token <github_personal_access_token>",
+              "Accept": "application/vnd.github.v3+json"
+             }
+}
